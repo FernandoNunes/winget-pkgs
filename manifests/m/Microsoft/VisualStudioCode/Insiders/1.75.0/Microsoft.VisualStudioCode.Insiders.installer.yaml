@@ -8,27 +8,27 @@ InstallerSwitches:
 Installers:
   - Architecture: arm64
     Scope: machine
-    InstallerUrl: 'https://vscode.blob.core.windows.net/insider/9ccc2b3b30c122afe45bc6722bef0e3901fb2806/VSCodeSetup-arm64-1.75.0-insider.exe'
-    InstallerSha256: bf3dae3ea3780698cf7669f3d46405a25c9ff2b1fae39fac3c3a608428a824dd
+    InstallerUrl: 'https://vscode.blob.core.windows.net/insider/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/VSCodeSetup-arm64-1.75.0-insider.exe'
+    InstallerSha256: 642d9d50c0ad422aabf1f9859a0f6b1f760c5d49677850c347543f9ce5f72953
   - Architecture: arm64
     Scope: user
-    InstallerUrl: 'https://vscode.blob.core.windows.net/insider/9ccc2b3b30c122afe45bc6722bef0e3901fb2806/VSCodeUserSetup-arm64-1.75.0-insider.exe'
-    InstallerSha256: 907af3d24ec94a4d42ac15c3ee3cab323bfcf14753868602bb5794c81ddebf9d
+    InstallerUrl: 'https://vscode.blob.core.windows.net/insider/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/VSCodeUserSetup-arm64-1.75.0-insider.exe'
+    InstallerSha256: eca09dc8a7cfc1e0cdd05764c4365c9971ff3b512b7e3addb32f283033490466
   - Architecture: x64
     Scope: machine
-    InstallerUrl: 'https://vscode.blob.core.windows.net/insider/9ccc2b3b30c122afe45bc6722bef0e3901fb2806/VSCodeSetup-x64-1.75.0-insider.exe'
-    InstallerSha256: 0f73737d568fcd836eec8275bd578369b574307092a69080b2866bd3c9ffdd77
+    InstallerUrl: 'https://vscode.blob.core.windows.net/insider/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/VSCodeSetup-x64-1.75.0-insider.exe'
+    InstallerSha256: 45c543e90f48d83017a626671ce456f87fdcd5e12a47fb164191771a055a0d5b
   - Architecture: x64
     Scope: user
-    InstallerUrl: 'https://vscode.blob.core.windows.net/insider/9ccc2b3b30c122afe45bc6722bef0e3901fb2806/VSCodeUserSetup-x64-1.75.0-insider.exe'
-    InstallerSha256: 549db4b59b62ec2bce9d8762f6983ebac3a054628f0527c9de9cee519ca76c3b
+    InstallerUrl: 'https://vscode.blob.core.windows.net/insider/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/VSCodeUserSetup-x64-1.75.0-insider.exe'
+    InstallerSha256: 88840e736e2b69576854119ecd984322266367ae7125af8c73e60d0a452f460f
   - Architecture: x86
     Scope: machine
-    InstallerUrl: 'https://vscode.blob.core.windows.net/insider/9ccc2b3b30c122afe45bc6722bef0e3901fb2806/VSCodeSetup-ia32-1.75.0-insider.exe'
-    InstallerSha256: 22865a01b872def982bf6d5581ebc6813c55a5ea78dc37f3e00374f36ad78193
+    InstallerUrl: 'https://vscode.blob.core.windows.net/insider/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/VSCodeSetup-ia32-1.75.0-insider.exe'
+    InstallerSha256: 36036aedf65fed5f99a3b7e44daed6798a74f276d60d083f48a0b2715bde51f8
   - Architecture: x86
     Scope: user
-    InstallerUrl: 'https://vscode.blob.core.windows.net/insider/9ccc2b3b30c122afe45bc6722bef0e3901fb2806/VSCodeUserSetup-ia32-1.75.0-insider.exe'
-    InstallerSha256: f0b97966e3c701126df74064ba69ed6d92b1d66fdaa224c1618ad083efbeb818
+    InstallerUrl: 'https://vscode.blob.core.windows.net/insider/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/VSCodeUserSetup-ia32-1.75.0-insider.exe'
+    InstallerSha256: e58e86b07f657229173593a149a27ce4ec1a2c6b45d1f2d24f424dc2fdb588e5
 ManifestType: installer
 ManifestVersion: 1.0.0
