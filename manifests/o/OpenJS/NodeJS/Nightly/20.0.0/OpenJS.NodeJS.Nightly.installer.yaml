@@ -14,15 +14,11 @@ UpgradeBehavior: install
 Commands:
 - node
 - npm
-ReleaseDate: 2022-11-26
+ReleaseDate: 2022-11-28
 Installers:
 - Architecture: x64
-  InstallerUrl: https://nodejs.org/download/nightly/v20.0.0-nightly202211269bc00fd66c/node-v20.0.0-nightly202211269bc00fd66c-x64.msi
-  InstallerSha256: AB95F59091ABB705ECD29B06CE8A8DDB7742C5D0623B05F1E3C7B23894287B98
-  ProductCode: '{8730D7AB-3B7D-4839-860A-1AD6E3EC6A7D}'
-- Architecture: x86
-  InstallerUrl: https://nodejs.org/download/nightly/v20.0.0-nightly202211269bc00fd66c/node-v20.0.0-nightly202211269bc00fd66c-x86.msi
-  InstallerSha256: 956B9EA6FBDE25CA812F8D837744DA5D13F96F7B118A93289FD24498C92DF0DB
-  ProductCode: '{15F5970D-718E-48DF-B135-16886C400724}'
+  InstallerUrl: https://nodejs.org/download/nightly/v20.0.0-nightly2022112858b60c1393/node-v20.0.0-nightly2022112858b60c1393-x64.msi
+  InstallerSha256: 22AEE74FF8535EA611CA6EFE523E0B944100FBE6C851F8252711374FF9730FE5
+  ProductCode: '{7A196CC4-546D-40E8-90A4-23580859615D}'
 ManifestType: installer
 ManifestVersion: 1.2.0
